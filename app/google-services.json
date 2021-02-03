@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622846077792",
+    "project_id": "ritzlogin-1a59a",
+    "storage_bucket": "ritzlogin-1a59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622846077792:android:987bf24f903f66a133cc05",
+        "android_client_info": {
+          "package_name": "com.rainbowcryptocoder.ritzlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622846077792-f709eq3b4kds7aa1efiadfh0qpj11e1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rainbowcryptocoder.ritzlogin",
+            "certificate_hash": "a83d37578fc937131d24a5a31bebda728bc2c570"
+          }
+        },
+        {
+          "client_id": "622846077792-bh11hn42ug38g28vm806fb02kt6e4n9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ5JilMTHr9nW1LJU6eP5GnK68dA9gvJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622846077792-bh11hn42ug38g28vm806fb02kt6e4n9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
